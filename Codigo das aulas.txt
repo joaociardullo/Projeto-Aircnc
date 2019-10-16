@@ -1,0 +1,17 @@
+yarn init -y
+yarn add express instalar dentro json
+yarn add nodemon -D
+
+yarn add multe- lib 
+
+yarn create react-app frontend -- para comecar o projeto frontend
+yarn start
+
+yarn add axios - 
+yarn add cors -controla um erro no navegador 
+
+yarn add react-router-dom - biblioteca de rotas
+
+---React-Native ---
+npm install -g expo-cli
+expo init NOME DO PROJETO 
